@@ -4,8 +4,9 @@ A Windows Forms application built in C# for an online shopping experience. This 
 # About the Project
 
 This is our **first-semester Computer Programming project**, showcasing fundamental programming concepts, file handling, and UI/UX design using C#. It was developed to apply the skills we learned in class and gain hands-on experience in building functional applications.
-# Features
-#  Authentication
+## Features
+
+### **Authentication**
 - **Login and Signup**: 
   - Secure signup and login functionality with data stored in files for persistent authentication.
   - Validates user credentials to ensure accuracy during login.
@@ -33,20 +34,17 @@ This is our **first-semester Computer Programming project**, showcasing fundamen
 
   
 ## Screenshots
- **Login Page**:
-   ![login](https://github.com/user-attachments/assets/2eea1986-a388-4119-804b-4cbb119f0948)
+ **Login Page**: ![login](https://github.com/user-attachments/assets/2eea1986-a388-4119-804b-4cbb119f0948)
 
- **Signup Page**:
- ![signup](https://github.com/user-attachments/assets/cde3df74-caf3-4b08-ae11-888aea255bd7)
+ **Signup Page**:![signup](https://github.com/user-attachments/assets/cde3df74-caf3-4b08-ae11-888aea255bd7)
 
- **Home Page with Carousel**
- ![home](https://github.com/user-attachments/assets/fdb2fc7f-67ec-4d18-80d9-5fd4060ac18c)
+ **Home Page with Carousel**:![home](https://github.com/user-attachments/assets/fdb2fc7f-67ec-4d18-80d9-5fd4060ac18c)
 
  **Product Pages**: ![cloth](https://github.com/user-attachments/assets/89ee7345-e7c4-4419-9ddb-8f0d9b0fa2a1)
  
-                      ![jewellery](https://github.com/user-attachments/assets/5c528746-7ea8-432e-9be0-0cb1dae76277)
-                      
-                      ![footwear](https://github.com/user-attachments/assets/e69bf476-e70c-4cd4-af0a-44ac106ed40a)
+ ![jewellery](https://github.com/user-attachments/assets/4ded98f3-65ba-4cd0-8e5b-db9cde95fa4b)
+ 
+![footwear](https://github.com/user-attachments/assets/b7f21554-0d4a-484f-9874-fd87467748c2)
 
- **Cart Page**:
-![my_cart](https://github.com/user-attachments/assets/dcb8a277-5957-45d7-bf28-236a710a52b0)
+
+ **Cart Page**:![my_cart](https://github.com/user-attachments/assets/dcb8a277-5957-45d7-bf28-236a710a52b0)
